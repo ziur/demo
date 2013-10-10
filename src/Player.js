@@ -1,4 +1,4 @@
-function Player(param) {
+function PlayerName() {
 }
 Player.prototype.toplay = function(song) {
   this.currentlyPlayingSong = song;
