@@ -1,6 +1,6 @@
-function Player() {
+function PlayerName() {
 }
-Player.prototype.play = function(song) {
+Player.prototype.IWillPlay = function(song) {
   this.currentlyPlayingSong = song;
   this.isPlaying = true;
 };
