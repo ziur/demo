@@ -1,11 +1,11 @@
-function Player() {
+function Player(param) {
 }
-Player.prototype.play = function(song) {
+Player.prototype.toplay = function(song) {
   this.currentlyPlayingSong = song;
   this.isPlaying = true;
 };
 
-Player.prototype.pause = function() {
+Player.prototype.Mypause = function() {
   this.isPlaying = false;
 };
 
