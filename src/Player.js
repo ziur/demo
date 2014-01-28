@@ -1,6 +1,6 @@
 
 
-function PlayerName1() {
+function PlayerNamesa() {
 }
 
 
