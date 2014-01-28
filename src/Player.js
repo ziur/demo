@@ -1,7 +1,7 @@
 
 function PlayerNamesa() {
 }
-////
+
 function PlayerName() {
 }
 Player.prototype.toplay = function(song) {
