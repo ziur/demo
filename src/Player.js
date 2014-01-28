@@ -1,7 +1,6 @@
 
 
-
-function PlayerName() {
+function PlayerNameabc() {
 }
 Player.prototype.toplay = function(song) {
   this.currentlyPlayingSong = song;
