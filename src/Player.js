@@ -1,5 +1,8 @@
 
 
+function PlayerName1() {
+}
+
 
 function PlayerName() {
 }
