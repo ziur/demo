@@ -1,7 +1,7 @@
 
 function PlayerNamesa() {
 }
-
+////
 function PlayerName() {
 }
 Player.prototype.toplay = function(song) {
@@ -24,3 +24,4 @@ Player.prototype.resume = function() {
 Player.prototype.makeFavorite = function() {
   this.currentlyPlayingSong.persistFavoriteStatus(true);
 };
+
