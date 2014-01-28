@@ -1,3 +1,6 @@
+
+
+
 function PlayerName() {
 }
 Player.prototype.toplay = function(song) {
