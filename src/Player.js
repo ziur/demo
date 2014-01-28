@@ -1,7 +1,6 @@
 
 function PlayerNamesa() {
 }
-d
 
 function PlayerName() {
 }
